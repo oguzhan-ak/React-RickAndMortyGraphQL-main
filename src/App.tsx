@@ -40,7 +40,7 @@ const  App = () => {
 
   return (
     <div className="App">
-      <div style={{ marginLeft: "80px" }}>
+      <div style={{ marginLeft: "8rem" }}>
         <h3>
           <b>{selectedValue === "" ? "Rick And Morty" : selectedValue}</b>
           <FilterAltIcon
